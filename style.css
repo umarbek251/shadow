@@ -3,6 +3,7 @@ body{
     background-image: url("");
     background-repeat: repeat-x;
     margin-top: 0px;
+    font-family:  "Open Sans", sans-serif;
 }
 .header{
     background-image: url(./images/RurqKDM.jpeg);
@@ -25,13 +26,14 @@ button{
 span{
     font-size: 35px;
     text-shadow: 4px -3px 8px white, 5px 6px 8px blue, -6px 2px 8px black;
+    font-family: Merriweather, serif;
 }
 .footer{
     padding: 15px;
     margin-top: 20px;
     background-color: #333;
     color: white;
-    text-align: center;
+    text-align: center;                 
 }
 .card{
     display: flex;
